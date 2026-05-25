@@ -4,7 +4,7 @@ A simple Laravel-based Student Management System with full CRUD operations.
 ---
 
 ## Requirements
-- PHP 8.1 or higher (XAMPP recommended)
+- PHP 8.0 or higher (XAMPP recommended)
 - Composer (PHP dependency manager)
 - XAMPP (MySQL database)
 - Git (optional, for cloning the project)
@@ -14,7 +14,7 @@ A simple Laravel-based Student Management System with full CRUD operations.
 ## Setup Instructions
 
 ### Step 1 — Clone the Repository
-git clone <your-repository-url>
+git clone https://github.com/chantreaelara/simple_student_management.git
 cd student-management
 
 ---
