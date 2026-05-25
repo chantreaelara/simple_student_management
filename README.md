@@ -14,8 +14,10 @@ A simple Laravel-based Student Management System with full CRUD operations.
 ## Setup Instructions
 
 ### Step 1 — Clone the Repository
+```bash
 git clone https://github.com/chantreaelara/simple_student_management.git
-cd student-management
+cd simple_student_management
+```
 
 ---
 
